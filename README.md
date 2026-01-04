@@ -56,4 +56,4 @@ For any questions/comments, please contact [NCC Lab](https://www.sustech.edu.cn/
 
 ## Copyright
 
-Copyright © 2025 NCC Lab, Southern University of Science and Technology, Shenzhen, China.
+Copyright © 2026 NCC Lab, Southern University of Science and Technology, Shenzhen, China.
